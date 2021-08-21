@@ -1,10 +1,10 @@
 # This is simple note/todo application built with react js
 
 ### External Libraries used
-1.[material-ui](https://material-ui.com/) : *major focus of these application* 
-2.[json-server](https://www.npmjs.com/package/json-server) : *to store some notes data and use it as API* 
-3.[react-masonry-css](https://www.npmjs.com/package/react-masonry-css) : *to make responsive grid for note cards* 
-4.[date-fns](https://www.npmjs.com/package/date-fns) : *to format date output* 
+1. [material-ui](https://material-ui.com/) : *major focus of these application* 
+2. [json-server](https://www.npmjs.com/package/json-server) : *to store some notes data and use it as API* 
+3. [react-masonry-css](https://www.npmjs.com/package/react-masonry-css) : *to make responsive grid for note cards* 
+4. [date-fns](https://www.npmjs.com/package/date-fns) : *to format date output* 
 
 # Getting Started with Create React App
 
