@@ -1,3 +1,10 @@
+# This is simple note/todo application built with react js
+
+### External Libraries used
+1. material-ui : *major focus of these application* [material-ui](https://material-ui.com/)
+2. json-server : *to store some notes data and use it as API* [json-server](https://www.npmjs.com/package/json-server)
+3. react-masonry-css : *to make responsive grid for note cards* [react-masonry-css](https://www.npmjs.com/package/react-masonry-css)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
