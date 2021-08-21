@@ -4,6 +4,7 @@
 1. material-ui : *major focus of these application* [material-ui](https://material-ui.com/)
 2. json-server : *to store some notes data and use it as API* [json-server](https://www.npmjs.com/package/json-server)
 3. react-masonry-css : *to make responsive grid for note cards* [react-masonry-css](https://www.npmjs.com/package/react-masonry-css)
+4. date-fns: *to format date output* [date-fns](https://www.npmjs.com/package/date-fns)
 
 # Getting Started with Create React App
 
